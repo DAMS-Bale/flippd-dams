@@ -7,6 +7,7 @@
       "topics" : [
         {
           "title" : "Ruby",
+          "quizzes": [1],
           "summary" : "An introduction to Ruby, which is the - purely object-oriented and somewhat functional - programming language used in DAMS.",
           "videos" : [
             {
