@@ -801,14 +801,14 @@
       "type": "CommentsTrophy",
       "name": "Young commenter",
       "configuration": {
-        "videos": 1
+        "comments": 1
       }
     },
     {
       "type": "CommentsTrophy",
       "name": "Talk too much?",
       "configuration": {
-        "videos": 5
+        "comments": 5
       }
     }
   ]
