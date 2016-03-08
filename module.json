@@ -7,7 +7,7 @@
       "topics" : [
         {
           "title" : "Ruby",
-          "quizzes": [1, 2],
+          "quizzes": [1, 2, 3],
           "summary" : "An introduction to Ruby, which is the - purely object-oriented and somewhat functional - programming language used in DAMS.",
           "videos" : [
             {
@@ -810,6 +810,13 @@
       "name": "Talk too much?",
       "configuration": {
         "comments": 5
+      }
+    },
+    {
+      "type": "VideosGroupTrophy",
+      "name": "Extensible Square Eyes",
+      "configuration": {
+        "videos": ["28", "29", "30", "31"]
       }
     }
   ]
