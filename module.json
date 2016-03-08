@@ -815,8 +815,18 @@
     {
       "type": "VideosGroupTrophy",
       "name": "Extensible Square Eyes",
+      "image": "//raw.githubusercontent.com/DAMS-Bale/flippd-trophies/master/1st-cup.png",
       "configuration": {
-        "videos": ["28", "29", "30", "31"]
+        "videos": [28, 29, 30, 31]
+      }
+    },
+    {
+      "type": "QuizTrophy",
+      "name": "Full Marks",
+      "image": "//raw.githubusercontent.com/DAMS-Bale/flippd-trophies/master/star-cup.png",
+      "configuration": {
+        "quiz_id": 1,
+        "score": 1
       }
     }
   ]
